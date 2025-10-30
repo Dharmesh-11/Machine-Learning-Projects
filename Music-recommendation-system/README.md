@@ -2,7 +2,6 @@
 
 A Flask-based music recommendation system that suggests similar tracks based on your song selection. Built with Python, scikit-learn, and a modern responsive UI.
 
-![Music Recommender](static/img.png)
 
 ## Features ✨
 
@@ -23,13 +22,19 @@ A Flask-based music recommendation system that suggests similar tracks based on 
 
 ## Setup 🚀
 
+
 1. Clone the repository:
 ```bash
 git clone https://github.com/Dharmesh-11/beginner-projects.git
 cd Music-Recomdation-system
 ```
 
-2. Set up Python virtual environment:
+2. Download the dataset:
+   - Dataset: [Million Song Dataset (Kaggle)](https://www.kaggle.com/datasets/mathieuteissier/million-song-dataset)
+   - Download and rename the dataset file to `songdata.csv`
+   - Place the downloaded `songdata.csv` file in the project root directory
+
+3. Set up Python virtual environment:
 ```bash
 python -m venv ml
 .\ml\Scripts\Activate.ps1  # On Windows PowerShell
@@ -39,6 +44,7 @@ python -m venv ml
 ```bash
 pip install -r requirements.txt
 ```
+
 
 ## Running the App 🎯
 
