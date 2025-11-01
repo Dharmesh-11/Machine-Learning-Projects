@@ -87,23 +87,6 @@ Then open in your browser:
 
 ---
 
-## 🖥️ Deployment (Optional)
-
-To deploy on Render or Heroku:
-1. Add these two files:
-   - **Procfile**
-     ```
-     web: gunicorn app:app
-     ```
-   - **runtime.txt**
-     ```
-     python-3.10.14
-     ```
-2. Push your code to GitHub and connect to Render/Heroku.
-3. Deploy — your app will be live online!
-
----
-
 ## 🧑‍💻 Author
 
 **Dharmesh Panpatil**  
