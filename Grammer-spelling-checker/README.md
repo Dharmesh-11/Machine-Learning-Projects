@@ -90,8 +90,6 @@ Then open in your browser:
 ## 🧑‍💻 Author
 
 **Dharmesh Panpatil**  
-📧 your-email@example.com  
-🌐 [LinkedIn or Portfolio Link]
 
 ---
 
