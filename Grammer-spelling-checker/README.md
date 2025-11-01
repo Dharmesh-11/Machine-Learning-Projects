@@ -89,15 +89,8 @@ Then open in your browser:
 
 ## 🧑‍💻 Author
 
-**Dharmesh Panpatil**  
+**Dharmesh Panpatil** 
 
----
-
-## 📜 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
 
 ### 💡 Tip
 If GingerIt2 doesn’t work (due to network or API issues), check your internet connection — it uses online grammar APIs.
