@@ -91,6 +91,3 @@ Then open in your browser:
 
 **Dharmesh Panpatil** 
 
-
-### 💡 Tip
-If GingerIt2 doesn’t work (due to network or API issues), check your internet connection — it uses online grammar APIs.
