@@ -76,15 +76,6 @@ Then open in your browser:
 
 ---
 
-## 📸 Screenshots
-*(Add your screenshots here)*  
-Example:
-```
-![App Screenshot](static/screenshot1.png)
-```
-
----
-
 ## 🧰 Technologies Used
 
 | Component | Technology |
