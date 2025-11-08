@@ -37,7 +37,7 @@ BigMart-Sales-Prediction/
 
 ### 1. Clone the Repository
 ```
-git clone <your-repository-link>
+git clone https://github.com/Dharmesh-11/Machine-Learning-Projects.git
 cd BigMart-Sales-Prediction
 ```
 
@@ -67,9 +67,3 @@ http://127.0.0.1:5000/
 250,6.89,1,0.136428,13,193.9820,8,1997,2,0,1
 ```
 
-## Model Performance
-- Model Used: XGBRegressor
-- Evaluation Metric: R² Score
-
-## License
-This project is for educational and academic use.
